@@ -1,0 +1,142 @@
+#flexu{
+display:flex;   
+flex-direction: row;
+}
+
+
+
+
+
+#flexd{
+    display:flex;
+    flex-direction: row;
+}
+
+
+
+
+
+#flext{
+    display:flex;
+    flex-direction: row;
+}
+
+
+
+
+
+#flexc{
+    display:flex;       
+    flex-direction: row;
+}
+
+
+
+#imgu{
+width:200px;
+height: 250px;
+}
+
+
+
+
+#imgd{
+   width:250px;
+height: 250px; 
+}
+
+
+
+#imgt{
+    width:200px;
+height: 250px;
+}
+
+
+
+#imgc{
+    width:200px;
+height: 250px;
+}
+
+
+#u{
+background-color:yellow;
+margin:auto;
+width:fit-content
+}
+
+
+
+#d{
+background-color: yellow;
+margin:auto;
+width:fit-content;
+}
+
+
+#t{
+background-color: yellow;
+margin:auto;
+width:fit-content
+}
+
+
+
+#c{
+    background-color: yellow;
+    margin:auto;
+    width:fit-content
+}
+
+
+
+
+#grande{
+display:flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+
+
+
+#textoo{
+    display:flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+
+#seis{
+     width:250px;
+height: 250px;
+}
+
+
+
+
+#siete{
+ width:250px;
+height: 250px;
+}
+
+
+
+#ocho{
+ width:250px;
+height: 250px;
+}
+
+
+#nueve{
+ width:250px;
+height: 250px;
+}
+
+
+#diez{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
